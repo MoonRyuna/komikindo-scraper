@@ -1,0 +1,16 @@
+{
+  "name": "scrapper-komikindo",
+  "version": "1.0.0",
+  "description": "a web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ari Ardiansyah",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.15.0",
+    "puppeteer": "^22.6.5",
+    "sharp": "^0.33.3"
+  }
+}
